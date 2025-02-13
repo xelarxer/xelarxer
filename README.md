@@ -5,8 +5,7 @@
 - 😄 Pronouns: she/want/me
 - ⚡ Fun fact: >seahorses are terrible swimmer
 
-- #**MY LANGUAGE** ![HTML5_logo_and_wordmark svg](https://github.com/user-attachments/assets/0f348a6f-caf8-4ded-8615-f502d405f7b7)
-
+- #**MY LANGUAGE** ![HTML5_logo_and_wordmark svg](https://github.com/user-attachments/assets/0f348a6f-caf8-4ded-8615-f502d405f7b7) {width="100px"}
 
 
 <!---

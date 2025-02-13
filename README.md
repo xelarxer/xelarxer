@@ -5,8 +5,9 @@
 - 😄 Pronouns: she/want/me
 - ⚡ Fun fact: >seahorses are terrible swimmer
 
-- #**MY LANGUAGE**
-![HTML]([https://github.com/user-attachments/assets/606041fe-3989-4b4e-b0bd-3a018a4938df](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png))
+- #**MY LANGUAGE** ![HTML5_logo_and_wordmark svg](https://github.com/user-attachments/assets/0f348a6f-caf8-4ded-8615-f502d405f7b7)
+
+
 
 <!---
 xelarxer/xelarxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
